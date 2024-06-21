@@ -13,4 +13,5 @@ This curricular unit aims to integrate the knowledge obtained in the various dis
 ## Authors of the Paper:
 
 Francisco Mendes: @FranciscoMendes16
+
 Leonardo Pereira: @LLeonnarrddo
